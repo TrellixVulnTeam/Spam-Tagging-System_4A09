@@ -37,7 +37,7 @@ def lambda_handler(event, context):
             
             
         # get the classification result of email_body
-        mxnet_pred = MXNetPredictor('sms-spam-classifier-mxnet-2020-05-05-15-18-31-035')
+        mxnet_pred = MXNetPredictor('spam')
         vocabulary_length = 9013
         test_messages = [email_body]
         one_hot_test_messages = one_hot_encode(test_messages, vocabulary_length)
