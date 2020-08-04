@@ -1,6 +1,6 @@
-# Spam-Filtering-System
+# Spam-Tagging-System
 
-- Spam Filtering System is an AWS-based serverless cloud application that
+- Spam Tagging System is an AWS-based serverless cloud application that
     - Implements a Machine Learning Model that predicts whether an SMS message is spam or not
     - Receives SMS messages / emails
     - Tags automatically whether the message received is spam or not
