@@ -1,5 +1,11 @@
 # Spam-Tagging-System
 
+- Collection: AWS-based serverless cloud applications
+    - [Malika Keller Dining Concierge Chatbot](https://github.com/HyperTars/Malika-Keller-Dining-Concierge-Chatbot)
+    - [Smart Door Authentication System](https://github.com/HyperTars/Smart-Door-Authentication-System)
+    - [Voice Controlled Photo Search](https://github.com/HyperTars/Voice-Controlled-Photo-Search)
+    - **[Spam Tagging System](https://github.com/HyperTars/Spam-Tagging-System)**
+    
 - Spam Tagging System is an AWS-based serverless cloud application that
     - Implements a Machine Learning Model that predicts whether an SMS message is spam or not
     - Receives SMS messages / emails
