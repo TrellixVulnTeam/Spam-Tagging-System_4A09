@@ -18,3 +18,5 @@
     - **SES** to set up acceptable user email address and send outcome
     - **Lambda** to process events
     - **CloudFormation** to represent all the infrastructure resources
+    
+- See full [Instructions](Instruction.pdf)
